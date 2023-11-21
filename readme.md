@@ -1,5 +1,5 @@
-# Node Base Image
-NodeJS Containerized Applications, the ClassDome way.
+# Python3 Base Image
+Python3 Containerized Applications, the ClassDome way.
 
 ## Details
 Based on Alpine Linux (`alpine:3.18.4`).
